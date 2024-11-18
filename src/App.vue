@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class="navbar bg-warning mb-2">
+    <nav class="navbar bg-warning">
       <div class="container-fluid">
         <a class="navbar-brand">Horse Racing</a>
         <Controls />
@@ -32,5 +32,20 @@ export default {
   display: flex;
   height: calc(100vh - 56px);
   gap: 20px; /* Adjust the gap value as needed */
+}
+
+.horse-list,
+.race-track,
+.results,
+.race-program {
+  flex: 1;
+}
+
+.race-track {
+  flex: 2;
+}
+
+.results {
+  flex: 2;
 }
 </style>
