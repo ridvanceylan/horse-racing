@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Kafkaslı", "condition": 85, "color": "red" },
+  { "id": 2, "name": "Yıldız", "condition": 90, "color": "blue" },
+  { "id": 3, "name": "Aslan", "condition": 78, "color": "green" },
+  { "id": 4, "name": "Bold Pilot", "condition": 88, "color": "yellow" },
+  { "id": 5, "name": "Savaş", "condition": 75, "color": "purple" },
+  { "id": 6, "name": "Şahin", "condition": 92, "color": "orange" },
+  { "id": 7, "name": "Çınar", "condition": 80, "color": "brown" },
+  { "id": 8, "name": "Kızıl", "condition": 70, "color": "pink" },
+  { "id": 9, "name": "Zeytin", "condition": 60, "color": "olive" },
+  { "id": 10, "name": "Karadeniz", "condition": 95, "color": "aqua" },
+  { "id": 11, "name": "Beyaz", "condition": 85, "color": "beige" },
+  { "id": 12, "name": "Fırtına", "condition": 90, "color": "gray" },
+  { "id": 13, "name": "Ateş", "condition": 78, "color": "crimson" },
+  { "id": 14, "name": "Kurt", "condition": 80, "color": "black" },
+  { "id": 15, "name": "Gökçe", "condition": 88, "color": "skyblue" },
+  { "id": 16, "name": "Duru", "condition": 75, "color": "cyan" },
+  { "id": 17, "name": "Boran", "condition": 72, "color": "silver" },
+  { "id": 18, "name": "Kırmızı", "condition": 89, "color": "magenta" },
+  { "id": 19, "name": "Zümrüt", "condition": 93, "color": "teal" },
+  { "id": 20, "name": "Kara", "condition": 84, "color": "indigo" }
+]
