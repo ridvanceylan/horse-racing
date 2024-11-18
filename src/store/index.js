@@ -1,11 +1,10 @@
 
 import { createStore } from "vuex";
-import raceModule from "./modules/race"; // Import your race module
-
+import raceModule from "./modules/race";
 const store = createStore({
     modules: {
-        race: raceModule, // Register the race module
+        race: raceModule,
     },
 });
 
-export default store; // Default export of the store
+export default store; 

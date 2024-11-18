@@ -27,7 +27,6 @@
 export default {
   computed: {
     raceSchedule() {
-      // Example for raceSchedule format; in real case, it comes from Vuex store
       return this.$store.getters['race/raceSchedule']
     },
   },
